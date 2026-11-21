@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "bsb00075644f735",
     "title": "瘋婦投河",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "L.sin. K 175-1/10 / bsb00075644, scan 735, 辛二第9圖",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "瘋婦投河（《點石齋畫報》辛二第9圖，1886 年，巴伐利亞邦立圖書館） / Feng fu tou he [A Woman in Distress and Her Rescue]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -59,7 +59,7 @@
               "text": "哀痛"
             },
             {
-              "text": "求人襄助救之以起"
+              "text": "求人襄助掖之以起"
             },
             {
               "text": "而婦"
@@ -103,7 +103,7 @@
             {
               "type": "artist-seal",
               "location": "畫款下一方印",
-              "text": "",
+              "text": "桂",
               "rect": [
                 2413,
                 2327,
@@ -114,7 +114,7 @@
             {
               "type": "printer-seal",
               "location": "圖說末一方印",
-              "text": "",
+              "text": "□□可□",
               "rect": [
                 1355,
                 585,
@@ -162,7 +162,8 @@
             "嬉咲",
             "嬉笑"
           ],
-          "note": "咲依刊圖原形，屬笑的異體。"
+          "note": "咲依刊圖原形，屬笑的異體。",
+          "review_note": "字左口右似关，保持原字咲。"
         },
         {
           "side": "right",

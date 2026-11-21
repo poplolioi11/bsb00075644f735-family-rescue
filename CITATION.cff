@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '瘋婦投河（《點石齋畫報》辛二第9圖，1886 年，巴伐利亞邦立圖書館） / Feng fu tou he [A Woman in Distress
   and Her Rescue]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

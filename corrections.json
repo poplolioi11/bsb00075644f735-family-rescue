@@ -1,0 +1,91 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 13,
+      "kind": "main",
+      "op": "replace",
+      "before": "求人襄助救之以起",
+      "after": "求人襄助掖之以起",
+      "reason": "放大見左扌一豎上挑，右部呈夜形，下角向左折。與第二讀一致。",
+      "source_bbox": [
+        1316,
+        434,
+        2480,
+        2403
+      ],
+      "source_image_sha256": "fbf5aa8fa40e38f8bc7d5cf79e9ce3f909dc4b547ef5c59a5e8d095bc3f8a755",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "kind": "artist-seal",
+      "op": "replace",
+      "before": "",
+      "after": "桂",
+      "reason": "左木右雙土的篆形與上方桂作的姓相合。",
+      "note_index": 3,
+      "source_bbox": [
+        2413,
+        2327,
+        2491,
+        2371
+      ],
+      "source_image_sha256": "fbf5aa8fa40e38f8bc7d5cf79e9ce3f909dc4b547ef5c59a5e8d095bc3f8a755",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "kind": "printer-seal",
+      "op": "replace",
+      "before": "",
+      "after": "□□可□",
+      "reason": "左上可字兩橫及口形可辨，其餘筆畫暫保留未讀位置。",
+      "note_index": 4,
+      "source_bbox": [
+        1355,
+        585,
+        1424,
+        651
+      ],
+      "source_image_sha256": "fbf5aa8fa40e38f8bc7d5cf79e9ce3f909dc4b547ef5c59a5e8d095bc3f8a755",
+      "canvas": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 9,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 15,
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "side": "right",
+      "column": 9,
+      "reading": "咲",
+      "rejected": "笑",
+      "reason": "左側方口與右部上下行筆分立，無竹頭。"
+    },
+    {
+      "side": "right",
+      "location": "圖說末一方印",
+      "reading": "□□可□",
+      "reason": "四字印，左上可讀，右部縱形疑眉、目等，不據辭語補字。"
+    }
+  ]
+}
