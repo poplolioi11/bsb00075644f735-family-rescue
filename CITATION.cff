@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '瘋婦投河（《點石齋畫報》辛二第9圖，1886 年，巴伐利亞邦立圖書館） / Feng fu tou he [A Woman in Distress
+  and Her Rescue]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/bsb00075644f735-family-rescue
+keywords:
+- 點石齋畫報
+- 瘋婦投河
+- 精神醫學史
+- 家屬與鄰人照護
+- Dianshizhai Pictorial
+- History of psychiatry
+- illustrated newspapers
+- Bavarian State Library
+- TEI

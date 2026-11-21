@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "work_key": "bsb00075644f735",
+    "title": "瘋婦投河",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "L.sin. K 175-1/10 / bsb00075644, scan 735, 辛二第9圖",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "瘋婦投河（《點石齋畫報》辛二第9圖，1886 年，巴伐利亞邦立圖書館） / Feng fu tou he [A Woman in Distress and Her Rescue]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "京華地安門外後門"
+            },
+            {
+              "text": "橋下"
+            },
+            {
+              "text": "水深不及一尺而淤"
+            },
+            {
+              "text": "泥之"
+            },
+            {
+              "text": "深可沒足踝日前有"
+            },
+            {
+              "text": "一瘋"
+            },
+            {
+              "text": "婦卸去衣服入河亂"
+            },
+            {
+              "text": "滾怒"
+            },
+            {
+              "text": "罵嬉咲不知臭穢子年"
+            },
+            {
+              "text": "已及"
+            },
+            {
+              "text": "十六七見母如此無限"
+            },
+            {
+              "text": "哀痛"
+            },
+            {
+              "text": "求人襄助救之以起"
+            },
+            {
+              "text": "而婦"
+            },
+            {
+              "text": "且極力蹲伏不肯出"
+            },
+            {
+              "text": "嗚呼"
+            },
+            {
+              "text": "犯此病者真是現在"
+            },
+            {
+              "text": "地獄"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題，右起",
+              "text": "瘋婦投河",
+              "rect": [
+                2268,
+                520,
+                2460,
+                761
+              ]
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖右下畫款",
+              "text": "桂作",
+              "rect": [
+                2422,
+                2258,
+                2471,
+                2331
+              ]
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下一方印",
+              "text": "",
+              "rect": [
+                2413,
+                2327,
+                2491,
+                2371
+              ]
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末一方印",
+              "text": "",
+              "rect": [
+                1355,
+                585,
+                1424,
+                651
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "form-mark",
+              "location": "同幅原刊圖號",
+              "text": "九",
+              "rect": [
+                42,
+                1931,
+                100,
+                1994
+              ]
+            },
+            {
+              "type": "form-mark",
+              "location": "同幅原刊期碼",
+              "text": "辛二",
+              "rect": [
+                45,
+                2243,
+                107,
+                2371
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 9,
+          "context": "嬉咲",
+          "candidates": [
+            "嬉咲",
+            "嬉笑"
+          ],
+          "note": "咲依刊圖原形，屬笑的異體。"
+        },
+        {
+          "side": "right",
+          "column": 15,
+          "context": "蹲伏",
+          "candidates": [
+            "蹲伏",
+            "踞伏"
+          ],
+          "note": "第一字右部瘦筆，留另一讀法待獨立覆核。"
+        }
+      ],
+      "observations": "第735幅右半獨立完整。正文十八欄、篇題與圖內畫款、印記逐項標識。左半是另一篇，僅取同幅欄外版記。",
+      "canvas_id": "https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735",
+      "iiif_canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/735",
+      "catalogue_page": 735,
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075644_00735/full/2600,/0/default.jpg",
+      "sha256": "fbf5aa8fa40e38f8bc7d5cf79e9ce3f909dc4b547ef5c59a5e8d095bc3f8a755",
+      "label": "辛二第9圖",
+      "dimensions": [
+        2600,
+        2547
+      ],
+      "article_extent": [
+        1316,
+        434,
+        2480,
+        2403
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
